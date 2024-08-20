@@ -9,8 +9,8 @@
     "mongoose": "^8.4.0",
     "node-cron": "^3.0.2",
     "node-schedule": "^2.1.1",
-    "my-classes": "file:../my_modules/my-classes",
-    "my-utils": "file:../my_modules/my-utils"
+    "my-classes": "file:./my_modules/my-classes",
+    "my-utils": "file:./my_modules/my-utils"
   },
   "devDependencies": {
     "@types/lodash": "^4.17.4",

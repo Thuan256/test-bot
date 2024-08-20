@@ -1,5 +1,5 @@
-mkdir classes
-mkdir ./interactions/buttons
-mkdir ./interactions/menus
-mkdir ./interactions/modals
-mkdir schedules
+mkdir classes -p
+mkdir ./interactions/buttons -p
+mkdir ./interactions/menus -p
+mkdir ./interactions/modals -p
+mkdir schedules -p

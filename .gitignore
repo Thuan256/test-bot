@@ -1,0 +1,13 @@
+node_modules/
+key
+key.pub
+desktop.ini
+.env.old
+.vscode/
+handlers/voiceLogs.js
+database/
+logs/
+code.js
+updateMethod.txt
+data/commands.json
+data/cfsid.json

@@ -1,4 +1,4 @@
-const { randomNumber } = require("./randomNumber")
+const _ = require('lodash')
 
 /**
  * 
@@ -9,7 +9,7 @@ exports.parseNumber = (text) => {
         text = String(text)
         
         if (!text) return;
-        return text.includes('~') ? randomNumber(...text.split('~').map(i => parseInt(i))) : parseInt(text)
+        return text.includes('~') ? _.random(...text.split('~').map(i => parseInt(i))) : parseInt(text)
     } catch (e) {
         console.error(e)
     }

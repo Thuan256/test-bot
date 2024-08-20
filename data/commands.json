@@ -1,0 +1,80 @@
+{
+  "disable": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  },
+  "enable": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  },
+  "cam": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  },
+  "say": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  },
+  "ping": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  },
+  "reload": {
+    "disable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "enable": {
+      "channels": [],
+      "users": [],
+      "roles": []
+    },
+    "server": false
+  }
+}

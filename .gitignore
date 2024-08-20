@@ -1,3 +1,4 @@
+commit_and_push.bat
 node_modules/
 key
 key.pub
@@ -9,5 +10,4 @@ database/
 logs/
 code.js
 updateMethod.txt
-data/commands.json
 data/cfsid.json
